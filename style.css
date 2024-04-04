@@ -1,0 +1,86 @@
+body {
+    background: rgba(0, 0, 0, 0.767);
+    font-family: "Poppins";
+}
+
+.loga {
+    display: flex;
+    position: absolute;
+    top: 80px;
+    left: 480px;
+}
+
+.head {
+    font-size: 90px;
+    font-weight: 400;
+    color: #4285F4;
+}
+
+.head1 {
+    font-size: 90px;
+    font-weight: 400;
+    color: #DB4437;
+}
+
+.head2 {
+    color: #F4B400;
+    font-size: 90px;
+    font-weight: 400;
+}
+
+.head3 {
+    color: #0F9D58;
+    font-size: 90px;
+    font-weight: 400;
+}
+
+.head4 {
+    color: #4285F4;
+    font-size: 90px;
+    font-weight: 400;
+}
+
+.head5 {
+    font-family: "Ubuntu";
+    font-weight: 400;
+    font-size: 95px;
+    transform: rotate(340deg);
+    color: #DB4437;
+}
+.place{
+    position: absolute;
+    top: 280px;
+    left: 385px;
+}
+.letter{
+    font-size: medium;
+    font-family:sans-serif;
+    width: 250px;
+    margin-left: 10px;
+    border: none;
+    outline: none;
+}
+.Seacrh-bar{
+    background-color: white;
+    position: absolute;
+    width: 520px;
+    height: 35px;
+    border-radius: 30px;
+    padding-top:12px;
+    padding-left: 15px;
+}
+#icon{
+    font-size: large;
+    margin-left: 5px;
+    color:#4285F4;
+}
+#icon1{
+    font-size:large;
+    margin-left:150px;
+    color: #DB4437;
+}
+#icon2{
+    font-size: large;
+    margin-left: 10px;
+    color: #0F9D58;
+}
